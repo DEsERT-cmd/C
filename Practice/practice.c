@@ -9,8 +9,6 @@ int main(){
     printf("%d\n", q2);
     printf("%d\n", q1);
     return 0;
-
-    
 }
 
 int digits_sum(int num){
